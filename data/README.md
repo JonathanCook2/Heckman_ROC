@@ -1,9 +1,1 @@
-Please replace the contents of this file with relevant instructions for your repository or remove this file entirely.
-
-This directory would generally contain the real data files (or facsimile versions of them in place of confidential data) and simulated data files.
-
-Cleaned data that are produced by processing raw input data might also be placed here.
-
-Code to generate the simulated data and (if relevant) and facsimile data provided in place of confidential real data might also be placed here. 
-
-Code for data cleaning could potentially also be placed here rather than in `code`.
+We provide two datasets: (i) the sample of 50,000 used in the paper, and (ii) a sample of 5,000 that can be used to replicate results. Due to the highly computational nature of this estimator, calculations using the sample of 50,000 take a long time to run. 
